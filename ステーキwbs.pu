@@ -1,0 +1,13 @@
+@startwbs ステーキ
+title ステーキを作る
+* ステーキ
+**[#SkyBlue] 肉を買う
+***[#Yellow] スーパーで肉を買う
+**[#SkyBlue] ステーキを作る
+***[#Yellow] 下ごしらえをする
+***[#Yellow] フライパンを温める
+***[#Yellow] 肉を焼く
+***[#Yellow] 塩コショウをする
+
+
+@endwbs

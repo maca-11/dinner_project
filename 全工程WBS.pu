@@ -1,0 +1,16 @@
+@startwbs じゃんけんゲーム
+title dinner_project
+* 夕食の内容を決める
+** 担当者を決める
+***[#SkyBlue] 買い出し
+**** スーパーで材料を買う
+*** 料理準備
+****[#Yellow] 米を炊く
+****[#Yellow] 調理器具の準備
+***[#SkyBlue] 調理
+****[#Yellow] ステーキを作る
+****[#Yellow] サラダを作る
+****[#Yellow] 卵スープを作る
+****[#Yellow] デザートを作る
+
+@endwbs

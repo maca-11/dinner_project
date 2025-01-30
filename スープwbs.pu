@@ -1,0 +1,13 @@
+@startwbs スープ
+title 卵スープを作る
+* 卵スープ
+**[#SkyBlue] 材料を買う
+***[#Yellow] スーパーで卵を買う
+**[#SkyBlue] 卵スープを作る
+***[#Yellow] お湯を沸かす
+***[#Yellow] 鶏がらスープの素を入れる
+***[#Yellow] とき卵を回し入れる
+***[#Yellow] わかめを入れる
+
+
+@endwbs
