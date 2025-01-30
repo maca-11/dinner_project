@@ -1,0 +1,15 @@
+@startwbs サラダ
+title サラダを作る
+* サラダ
+**[#SkyBlue] 野菜を買う
+***[#Yellow] スーパーでレタスを買う
+***[#Yellow] スーパーで玉ねぎを買う
+***[#Yellow] スーパーでトマトを買う
+**[#SkyBlue] サラダを作る
+***[#Yellow] 野菜を洗う
+***[#Yellow] 野菜を切る
+***[#Yellow] 皿に盛り付ける
+***[#Yellow] ドレッシングをかける
+
+
+@endwbs
